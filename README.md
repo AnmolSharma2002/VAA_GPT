@@ -35,3 +35,12 @@ A full-stack **ChatGPT-inspired conversational AI** built with the MERN stack an
    ```bash
    git clone https://github.com/yourusername/chatgpt-clone.git
    cd chatgpt-clone
+
+
+### Customization Notes:
+- Replace `yourusername` with your GitHub username.
+- Update `MONGO_URI` and `OPENAI_API_KEY` instructions based on your setup process.
+- If you used additional tools (e.g., Tailwind CSS, Redux), add them to the "Tech Stack" section.
+- Adjust port numbers or file names if your project structure differs.
+
+Let me know if you’d like to refine it further!
