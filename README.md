@@ -33,7 +33,7 @@ A full-stack **ChatGPT-inspired conversational AI** built with the MERN stack an
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/chatgpt-clone.git
+   git clone https://github.com/yourusername/vaa_gpt.git
    cd chatgpt-clone
 
 
