@@ -116,4 +116,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<p align="center">Built with ❤️ by <a href="https://github.com/AnmolSharma2002">Your Name</a></p>
+<p align="center">Built with ❤️ by <a href="https://github.com/AnmolSharma2002">Anmol Sharma</a></p>
